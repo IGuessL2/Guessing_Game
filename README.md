@@ -15,3 +15,6 @@ Make sure you have GCC installed. Then run:
 
 ```bash
 gcc guessing_game.c -o guessing_game
+
+#To run a program
+./guessing_game
